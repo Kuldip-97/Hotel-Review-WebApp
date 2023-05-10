@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Hotel_Microservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hotel.service{HotelService.java[HotelService" modifiers="513" timestamp="1675851912089"/>
+    <typeInfo handle="=User_Microservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.user.service{UserService.java[UserService" modifiers="513" timestamp="1675878415073"/>
+    <typeInfo handle="=Rating_Microservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ratings.service{RatingService.java[RatingService" modifiers="513" timestamp="1675885826000"/>
+    <typeInfo handle="=User_Microservice/C:\/Users\/Kuldip\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.7\/spring-data-jpa-2.7.7.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.7=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1674898667741"/>
+</typeInfoHistroy>
